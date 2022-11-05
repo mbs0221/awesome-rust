@@ -1,0 +1,66 @@
+[submodule "blog_os"]
+	path = blog_os
+	url = https://github.com/phil-opp/blog_os.git
+[submodule "kerla"]
+	path = kerla
+	url = https://github.com/nuta/kerla.git
+[submodule "osblog"]
+	path = osblog
+	url = https://github.com/sgmarz/osblog.git
+[submodule "rCore"]
+	path = rCore
+	url = https://github.com/rcore-os/rCore.git
+[submodule "rCore-Tutorial-in-single-workspace"]
+	path = rCore-Tutorial-in-single-workspace
+	url = https://github.com/YdrMaster/rCore-Tutorial-in-single-workspace.git
+[submodule "rCore-Tutorial-v3"]
+	path = rCore-Tutorial-v3
+	url = https://github.com/rcore-os/rCore-Tutorial-v3.git
+[submodule "rustc-cet"]
+	path = rustc-cet
+	url = https://github.com/PLSysSec/rustc-cet.git
+[submodule "rust-course"]
+	path = rust-course
+	url = https://github.com/sunface/rust-course.git
+[submodule "rust-ffi-checker"]
+	path = rust-ffi-checker
+	url = https://github.com/lizhuohua/rust-ffi-checker.git
+[submodule "rust-ffi-examples"]
+	path = rust-ffi-examples
+	url = https://github.com/alexcrichton/rust-ffi-examples.git
+[submodule "rust-ffi-omnibus"]
+	path = rust-ffi-omnibus
+	url = https://github.com/chinanf-boy/rust-ffi-omnibus.git
+[submodule "rust-guide"]
+	path = rust-guide
+	url = https://github.com/ANSSI-FR/rust-guide.git
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/rust-lang/rustlings
+[submodule "RustOS"]
+	path = RustOS
+	url = https://github.com/DutchGhost/RustOS.git
+[submodule "rust-quiz"]
+	path = rust-quiz
+	url = https://github.com/dtolnay/rust-quiz.git
+[submodule "rust-samples"]
+	path = rust-samples
+	url = https://github.com/rstropek/rust-samples.git
+[submodule "rustyvisor"]
+	path = rustyvisor
+	url = https://github.com/stemnic/rustyvisor.git
+[submodule "rCore-Tutorial-Book-v3"]
+	path = rCore-Tutorial-Book-v3
+	url = https://github.com/rcore-os/rCore-Tutorial-Book-v3.git
+[submodule "rcore_step_by_step"]
+	path = rcore_step_by_step
+	url = https://github.com/LearningOS/rcore_step_by_step.git
+[submodule "rustdi"]
+	path = rustdi
+	url = https://github.com/nicoburns/rustdi.git
+[submodule "RVM"]
+	path = RVM
+	url = https://github.com/rcore-os/RVM.git
+[submodule "sallyport"]
+	path = sallyport
+	url = https://github.com/enarx/sallyport.git
